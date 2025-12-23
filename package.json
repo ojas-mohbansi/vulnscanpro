@@ -1,0 +1,36 @@
+{
+  "name": "vulnscan-pro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-router-dom": "^7.11.0",
+    "react-dom": "^19.2.3",
+    "lucide-react": "^0.562.0",
+    "recharts": "^3.6.0",
+    "chart.js": "4.4.1",
+    "react-chartjs-2": "5.2.0",
+    "next": "^16.1.0",
+    "d3": "7.9.0",
+    "leaflet": "1.9.4",
+    "mysql2": "^3.16.0",
+    "drizzle-orm": "^0.45.1",
+    "playwright": "^1.57.0",
+    "ioredis": "^5.8.2",
+    "bullmq": "^5.66.2",
+    "https": "^1.0.0",
+    "tls": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

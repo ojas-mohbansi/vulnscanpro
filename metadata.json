@@ -1,0 +1,5 @@
+{
+  "name": "VulnScan Pro",
+  "description": "An open-source Web Application Vulnerability Scanner optimized for modern frameworks like React, Flask, and Django. Features real-time scanning visualization, rich findings with remediation guidance, and report export.",
+  "requestFramePermissions": []
+}
